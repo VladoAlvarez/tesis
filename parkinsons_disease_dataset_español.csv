@@ -1,4 +1,4 @@
-﻿Estado_Parkinson;Edad;Sexo;Intensidad_Temblor;Voz_Altura;Voz_Temblor;Voz_Inestabilidad;Score_Bradicinesia;Inestabilidad_Postural;Nivel_Rigidez;Score_UPDRS;Cambio_Escritura;Dificultad_Caminando;Historia_Familiar;Score_MRI
+﻿Tiene_Parkinson;Edad;Sexo;Intensidad_Temblor;Voz_Altura;Voz_Temblor;Voz_Inestabilidad;Score_Bradicinesia;Inestabilidad_Postural;Nivel_Rigidez;Score_UPDRS;Cambio_Escritura;Dificultad_Caminando;Historia_Familiar;Score_MRI
 1;78;Male;519;28762;382;298;805;911;667;7913;97;739;No;1141
 0;68;Female;622;28192;338;379;104;764;143;975;167;171;Yes;1258
 0;54;Female;42;23159;289;403;814;205;38;734;63;979;Yes;155
